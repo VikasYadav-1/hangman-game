@@ -1,8 +1,17 @@
-# React + Vite
+# Hangman React App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the Hangman React App! This interactive Hangman game built with React offers an engaging user interface and even provides feedback on incorrect guesses.
 
-Currently, two official plugins are available:
+## Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Explore a live demo of the Hangman React App [here](https://github.com/VikasYadav-1/hangman-game)
+
+## Features
+
+### Interactive UI
+
+The Hangman React App features a user-friendly and interactive interface that enhances the gaming experience. Users can easily interact with the game elements, including selecting letters to guess the hidden word.
+
+### Incorrect Guess Feedback
+
+Unlike traditional Hangman games, this app provides immediate feedback on incorrect guesses. It highlights the incorrectly guessed letters, making the gameplay more engaging and informative.
